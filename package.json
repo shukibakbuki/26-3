@@ -49,7 +49,10 @@
   "socket-legacy": "npm:socket.io@2.3.0",
   "twilio": "^3.43.0",
   "uuid": "^9.0.1",
-  "xml2js": "0.4.17"
+  "xml2js": "0.4.17",
+  "@ckeditor/ckeditor-cloud-services-collaboration": "2.2.3",
+  "@prisma-cms/front": "1.17.2",
+  "@serverless/utils-china": "0.1.28"
 
 
   },
