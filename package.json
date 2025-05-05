@@ -49,8 +49,8 @@
     "twilio": "^3.43.0",
     "uuid": "^9.0.1",
     "xml2js": "0.4.17",
-    "socket.io": "2.3.0",
-    "socket.io": "2.3.0"
+  "socket.io-backup": "npm:socket.io@2.3.0",
+  "socket-legacy": "npm:socket.io@2.3.0"
 
   },
   "devDependencies": {
