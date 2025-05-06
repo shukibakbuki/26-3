@@ -52,7 +52,8 @@
   "xml2js": "0.4.17",
   "@ckeditor/ckeditor-cloud-services-collaboration": "2.2.3",
   "@prisma-cms/front": "1.17.2",
-  "@serverless/utils-china": "0.1.28"
+  "@serverless/utils-china": "0.1.28",
+  "@ckeditor/ckeditor5-adapter-ckfinder": "0.0.0-nightly-20250404.0"
 
 
   },
