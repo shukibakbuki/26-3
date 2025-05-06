@@ -44,17 +44,11 @@
   "node-yaml-config": "0.0.4",
   "nodemailer": "^6.3.0",
   "numeral": "^2.0.6",
-  "socket.io": "npm:socket.io@2.3.0",
-  "socket.io-backup": "npm:socket.io@2.3.0",
-  "socket-legacy": "npm:socket.io@2.3.0",
   "twilio": "^3.43.0",
   "uuid": "^9.0.1",
   "xml2js": "0.4.17",
-  "@ckeditor/ckeditor-cloud-services-collaboration": "2.2.3",
-  "@prisma-cms/boilerplate": "2.0.10",
-  "@lcap/nasl": "3.13.0-beta.10",
-  "@serverless/utils-china": "0.1.28",
-  "@ckeditor/ckeditor5-adapter-ckfinder": "0.0.0-nightly-20250404.0"
+  "@lcap/nasl": "3.13.0-beta.10"
+
 
 
   },
