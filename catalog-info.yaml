@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: 26-3
+  annotations:
+    github.com/project-slug: shukibakbuki/26-3
+spec:
+  type: service
+  lifecycle: unknown
+  owner: guests
