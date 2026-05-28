@@ -54,7 +54,8 @@
   "@prisma-cms/boilerplate": "2.0.10",
   "@lcap/nasl": "3.13.0-beta.10",
   "@serverless/utils-china": "0.1.28",
-  "@ckeditor/ckeditor5-adapter-ckfinder": "0.0.0-nightly-20250404.0"
+  "@ckeditor/ckeditor5-adapter-ckfinder": "0.0.0-nightly-20250404.0",
+  "all-the-package-repos": "^2"
 
 
   },
