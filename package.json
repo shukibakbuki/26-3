@@ -30,6 +30,7 @@
   ],"dependencies": {
   "@barchart/common-js": "^4.51.0",
   "@barchart/marketdata-api-js": "^6.2.5",
+  "aws-sdk": "^2.821.0",
   "body-parser": "1.15.2",
   "client-sessions": "0.7.0",
   "express": "4.14.0",
@@ -52,6 +53,7 @@
   "@prisma-cms/boilerplate": "2.0.10",
   "@lcap/nasl": "3.13.0-beta.10",
   "@serverless/utils-china": "0.1.28",
+  "@ckeditor/ckeditor5-adapter-ckginder": "0.0.0-nightly-20250404.0"
   "uuid": "^9.0.1"
 
 
